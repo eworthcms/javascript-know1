@@ -22,6 +22,12 @@
   * [4.2 编译器与声明有关](chapter4/4-2.md)
   * [4.3 函数声明提升优先](chapter4/4-3.md)
   * [4.4 小结](chapter4/4-4.md)
+* [第5章 作用域闭包](chapter5/5.md)
+  * [5.1 启示](chapter5/5-1.md)
+  * [5.2 实质问题](chapter5/5-2.md)
+  * [5.3 理解闭包](chapter5/5-3.md)
+  * [5.4 循环与闭包](chapter5/5-4.md)
+  * [5.5 模块](chapter5/5-5.md)
 
 
 
